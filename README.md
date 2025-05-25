@@ -9,4 +9,4 @@
    + Azure Cloud and related Data Engineering tools (Already worked with Oracle Cloud) <br>
    + Machine learning and Gen AI <br>
    + How to architectect better data system <br>
-+ 📫 Here's how you can reach me: [Instagram] () |[LinkedIn](www.linkedin.com/in/yogesh-gode-5ba33159)
++ 📫 Here's how you can reach me: [Instagram](https://www.instagram.com/artist_yogu_gode?igsh=MTZieTFjdXBoM3dn&utm_source=qr)|[LinkedIn](www.linkedin.com/in/yogesh-gode-5ba33159)
