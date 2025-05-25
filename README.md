@@ -1,6 +1,5 @@
-Hello, I am Yogesh 👋
-
-Thanks for stopping by. Here's a little bit about myself...
+**Hello, I am Yogesh 👋
+Thanks for stopping by. Here's a little bit about myself...**
 
 😄 My pronouns are: He/His/Him
 🔭 I’m currently working as a Data Engineer and Analyst at Cognizant Technology Solutions
