@@ -7,5 +7,6 @@
 🧑🏻‍🏫 I am currenly learning <br>
 Exporing Modern Data Stack (Apacke (Kafka, Spark and Airflow), Snowflake, dbt, Databricks) <br>
 Azure Cloud and Data Engineering tools (Already worked with Oracle Cloud) <br>
+Machine learning and Gen AI <br>
 How to architectect better data system <br>
 📫 Here's how you can reach me:  | 
